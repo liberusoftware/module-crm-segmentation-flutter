@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-segmentation-flutter",
+  "capabilityKey": "liberusoftware/module-crm-segmentation",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_segmentation_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/segmentation.md",
+  "presentationPlan": "projects/crm/flutter/segmentation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
